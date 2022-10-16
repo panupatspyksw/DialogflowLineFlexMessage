@@ -90,7 +90,7 @@ function App() {
             className='hover:bg-blue-700 mt-3 w-full rounded-lg border-3 p-3 bg-blue-600 text-white font-bold'
             onClick={ConvertFlexMessage}
           >
-            COVERT
+            CONVERT
           </button>
         </div>
         <div className='w-full'>
